@@ -10,6 +10,9 @@ On Windows standard install, that directory is C:\Program Files (x86)\Valkyrie\v
 2: Enable the Custom Expansion
 
 Open Valkyrie.
+
 In the Mansions Main Menu, click the button 'Select Content'.
+
 Click the button "Boxed Expansions".
+
 Click the Curse of Set box to enable the custom set.
