@@ -2,7 +2,7 @@ Package file for import into Valkyrie
 
 1: Download the Custom Expansion
 
-Download the "CoS" folder and copy all it's contents into the directory:{PATH_TO_VALKYRIE_INSTALL}\Valkyrie\valkyrie_Data\StreamingAssets\content\MoM
+Download the "CoS" folder and copy all its contents into the directory:{PATH_TO_VALKYRIE_INSTALL}\Valkyrie\valkyrie_Data\StreamingAssets\content\MoM
 
 On Windows standard install, that directory is C:\Program Files (x86)\Valkyrie\valkyrie_Data\StreamingAssets\content\MoM
 
