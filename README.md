@@ -21,3 +21,4 @@ In the Mansions Main Menu, click the button 'Select Content'.
 Click the button "Boxed Expansions".
 
 Click the Curse of Set box to enable the custom set.
+Do not enable the Terror along the Nile package if you have installed it.  It conflicts with the Curse of Set package.
