@@ -5,8 +5,8 @@ Package file for import into Valkyrie
 Download the "CoS" folder and copy all its contents into the directory:{PATH_TO_VALKYRIE_INSTALL}\Valkyrie\valkyrie_Data\StreamingAssets\content\MoM
 
 On Windows standard install, that directory is C:\Program Files (x86)\Valkyrie\valkyrie_Data\StreamingAssets\content\MoM
-
 On Android, the path is android/data/com.bruce.valkyrie/files/assets/content/MoM/
+
 
 
 
