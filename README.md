@@ -6,6 +6,8 @@ Download the "CoS" folder and copy all its contents into the directory:{PATH_TO_
 
 On Windows standard install, that directory is C:\Program Files (x86)\Valkyrie\valkyrie_Data\StreamingAssets\content\MoM
 
+On Android, the path is android/data/com.bruce.valkyrie/files/assets/content/MoM/
+
 
 
 2: Enable the Custom Expansion
