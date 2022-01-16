@@ -11,6 +11,7 @@ On Android, the path is android/data/com.bruce.valkyrie/files/assets/content/MoM
 
 
 
+
 2: Enable the Custom Expansion
 
 Open Valkyrie.
